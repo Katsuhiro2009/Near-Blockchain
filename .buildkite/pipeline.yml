@@ -161,7 +161,7 @@ steps:
 
   #    LOCAL_CORE_SRC=.. ci/e2e.sh
 
-  #  timeout: 60
+  #  timeout: 50
   #  agents:
   #  - "queue=default"
   #  branches: "!master"
